@@ -1,0 +1,23 @@
+{
+  "name": "v-datetimepicker-component",
+  "version": "0.0.3",
+  "description": "datetime-picker for vue component.",
+  "main": "src/datetimepicker.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godbasin/vue-datetime-picker.git"
+  },
+  "keywords": [
+    "vue",
+    "datetimepicker"
+  ],
+  "author": "godbasin <wangbeishan@163.com> (https://github.com/godbasin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godbasin/vue-datetime-picker/issues"
+  },
+  "homepage": "https://github.com/godbasin/vue-datetime-picker#readme"
+}
